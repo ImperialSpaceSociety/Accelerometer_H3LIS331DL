@@ -37,7 +37,7 @@
 #define MEMS_SET                        0x01
 #define MEMS_RESET                      0x00
 
-#define H3LIS331DL_MEMS_I2C_ADDRESS     0x18//0x32
+#define H3LIS331DL_MEMS_I2C_ADDRESS     0x19//0x32
 
 //Register and define
 #define H3LIS331DL_WHO_AM_I             0x0F   // device identification register
